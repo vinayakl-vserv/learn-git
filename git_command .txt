@@ -5,3 +5,15 @@ ex: git clone https://github.com/vinayakl-vserv/learn-git.git
 2.git status
 def : display ths code of status
 ex : status 
+
+3.git add
+def :   adds new or changed files in your working directory to the git staging area
+syntax : git add <file name>
+        : git add . // all file add 
+ex : git add example.php
+
+
+4.git commit
+def : it is record of changes 
+syntax git commit -m <message >
+ex : git commit -m "commit first git commit message"
