@@ -1,0 +1,7 @@
+1.git clone
+syntax : git clone <url>
+ex: git clone https://github.com/vinayakl-vserv/learn-git.git 
+
+2.git status
+def : display ths code of status
+ex : status 
